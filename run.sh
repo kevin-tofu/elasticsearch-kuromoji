@@ -1,1 +1,1 @@
-docker build -t elasticsearch-kuromoji:8.6.2 .
+docker build -t elasticsearch-kuromoji:7.9.2 .
